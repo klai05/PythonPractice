@@ -1,4 +1,4 @@
-class Time:
+ class Time:
    """Blueprint for a Time object"""
    def __init__(self):
       self.__hour = 0
